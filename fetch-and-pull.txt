@@ -1,0 +1,3 @@
+fetch downloads the metadata and doesn't do any file transfer
+pull gets the latest data and merge it to the local copy 
+git pull it's short hand for git fech merge FETCH_HEAD .
